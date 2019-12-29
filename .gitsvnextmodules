@@ -1,0 +1,24 @@
+[submodule "NsisSetupDev"]
+	path = NsisSetupDev
+	owner = /
+	url = /p/nsisplus/NsisSetupDev/trunk
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
+[submodule "NsisSetupLib"]
+	path = NsisSetupLib
+	owner = /
+	url = /p/nsisplus/NsisSetupLib/trunk
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
+[submodule "NsisSetupSamples"]
+	path = NsisSetupSamples
+	owner = /
+	url = /p/nsisplus/NsisSetupSamples/trunk
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
